@@ -15,4 +15,4 @@ myencode: main.o Base64.o uu.o
 
 clean:
 	-rm -f myencode
-	-rm -f main.o uu.o Base64.o
+	-rm -f main.o uu.o base64.o
