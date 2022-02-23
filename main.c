@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <assert.h>
 
 #include "uu.h"
 #include "base64.h"
